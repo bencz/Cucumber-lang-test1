@@ -1,0 +1,18 @@
+/* fsdhiufdhsfdjsçfds
+fdsnfdskflds
+fd
+fds
+fdds
+f
+dsfds
+*/
+
+
+// Isso eh uma classe!!!
+class Tetera : teta
+{
+	method lala(blabla : string)
+	{
+		Console->WriteLine(blabla); // hihi
+	}
+}
