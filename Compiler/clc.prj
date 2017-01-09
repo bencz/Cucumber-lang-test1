@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 executable=clc.exe
 output=obj
 namespace=cucumber
@@ -8,4 +8,6 @@ warn:unresolved=-1
 
 [files]
 main.l
-
+SourceInfo.l
+Tokenizer.l
+SourceData.l
