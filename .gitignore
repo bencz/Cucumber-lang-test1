@@ -1,2 +1,2 @@
-bin
-obj
+Compiler\obj
+Compiler\*.exe
