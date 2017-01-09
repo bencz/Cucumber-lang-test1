@@ -1,0 +1,6 @@
+import System.
+
+class Program
+	private static int Main(args : string = {})
+		Console WriteLine:"Ola mundo".
+		return 0.
